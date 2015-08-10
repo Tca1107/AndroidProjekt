@@ -16,6 +16,8 @@ public class MainActivity extends ActionBarActivity {
     //und, passiert was?!
     //haariger busen
 
+    //zwei haarige Busen, ohne Rechtschreibfehler
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
