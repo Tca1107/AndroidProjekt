@@ -13,6 +13,9 @@ public class MainActivity extends ActionBarActivity {
 
     // and this here is the second test.
 
+    //und, passiert was?!
+    //haariger busen
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
