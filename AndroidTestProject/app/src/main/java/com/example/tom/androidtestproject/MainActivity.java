@@ -18,6 +18,8 @@ public class MainActivity extends ActionBarActivity {
 
     //zwei haarige Busen, ohne Rechtschreibfehler
 
+    // Und das funktioniert sogar noch, ein paar Tage später!
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
